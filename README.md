@@ -4,6 +4,10 @@ Python interface for the pocket detection method of the NanoShaper software **wi
 ## Requirements
 
 - A locally installed version of NanoShaper https://gitlab.iit.it/SDecherchi/nanoshaper
+
+OR 
+
+
 - Install patchelf:
 
   &nbsp; e.g. sudo apt install patchelf (Ubuntu)
